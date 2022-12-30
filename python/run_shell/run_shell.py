@@ -1,7 +1,7 @@
 # Author  : zhai1xiao
 # Date    : 2022-12-29
-# Function: use python run shell commend 
-#           record the RUN TIME and MEMORY USED
+# Function: Call shell commend with python
+#           record the RUN TIME and MEMORY USED based on psutil
 
 import time, os, sys
 import pandas as pd
