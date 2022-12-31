@@ -1,6 +1,7 @@
-# Author  : zhai1xiao
-# Date    : 2022-05-06
-# Function: Convert .aln format to .fasta/.fas format
+# Author      : zhai1xiao
+# Date        : 2022-05-06
+# Function    : Convert .aln format to .fasta/.fas format
+# Instructions: python3 aln2fasta.py PATH/file.aln
 
 import sys, os
 
