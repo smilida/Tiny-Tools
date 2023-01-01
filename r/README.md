@@ -20,7 +20,8 @@ conda create -n R r-base=4.1 r-essentials r-irkernel
 # activate virtual environment R
 conda activate R
 ```
-4. Install devtools and 
+4. Install devtools and BiocManager
 ```bash
 conda install r-devtools
+conda install r-biocmanager
 ```
