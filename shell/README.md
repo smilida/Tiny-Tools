@@ -14,4 +14,7 @@ screen -ls
 screen -r example_id
 # kill screen
 screen -S example_id -X quit
+
+# count the number of specific characters in a file
+grep -c "balabala" filename
 ```
