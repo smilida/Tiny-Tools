@@ -1,5 +1,5 @@
 # Conda
-## Create a package of the C++ source code using conda build
+## Create a package of the C++ source code using conda-build
 Below is a simple C++ example consisting of two .cpp files. We will package this example into an executable installer using Conda. Follow the steps outlined below:
 1. Create a folder named "hello_world" and create the following three files inside:
  - hello.cpp: a C++ source code file containing a main function and a simple output statement.
@@ -18,4 +18,4 @@ hello
 #### Tips
 Make sure the network is stable!!!
 #### Reference
-https://www.jianshu.com/p/0b737a1ae425
+[使用conda-build构建包并上传至anaconda.org](https://www.jianshu.com/p/0b737a1ae425)
