@@ -1,0 +1,17 @@
+package:
+  name: hello_world
+  version: "0.1"
+
+build:
+  number: 0
+  script: make
+
+requirements:
+  build:
+    - make
+    - gcc
+
+about:
+  home: https://github.com/<username>/hello_world
+  license: MIT
+  summary: A simple C++ "Hello, world!" example.
