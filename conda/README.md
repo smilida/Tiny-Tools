@@ -21,5 +21,5 @@ Make sure the network is stable!!!
 [使用conda-build构建包并上传至anaconda.org](https://www.jianshu.com/p/0b737a1ae425)
 
 ## Useful
-[resetting conda channel priorities](https://stackoverflow.com/questions/48547046/resetting-conda-channel-priorities)
-[为Conda添加清华软件源](https://zhuanlan.zhihu.com/p/47663391), Notes: Tsinghua source may not be complete.
+ - [resetting conda channel priorities](https://stackoverflow.com/questions/48547046/resetting-conda-channel-priorities)
+ - [为Conda添加清华软件源](https://zhuanlan.zhihu.com/p/47663391), Notes: Tsinghua source may not be complete.
