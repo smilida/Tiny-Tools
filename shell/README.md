@@ -17,4 +17,9 @@ screen -S example_id -X quit
 
 # count the number of specific characters in a file
 grep -c "balabala" filename
+
+# spilt string use cut
+echo "string.before.dot.after" | cut -d "." 1
 ```
+
+
