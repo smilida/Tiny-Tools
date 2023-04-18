@@ -20,6 +20,9 @@ grep -c "balabala" filename
 
 # spilt string use cut
 echo "string.before.dot.after" | cut -d "." 1
+
+# record time and memory cost of a process
+/usr/bin/time -v [command of process]
 ```
 
 
