@@ -5,6 +5,7 @@ tar -zcvf example.tar.gz PATH/
 # unzip
 tar -zxvf example.tar.gz
 tar -jxvf example.tar.bz2
+tar -xf example.tar.xz
 
 # create a screen
 screen -S example
