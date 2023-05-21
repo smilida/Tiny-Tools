@@ -1,4 +1,7 @@
 ## 👀What's in the Tiny-Tools
+### conda
+An example shows how to package the cpp source code and publish it to the conda platform
+
 ### python
 - **aln2fasta**
   - Convert *.aln* format to *.fasta/.fas* format(single and multiple can be converted)
